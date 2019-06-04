@@ -1,4 +1,4 @@
-# Currency Converter
+## Currency Converter
 An offline currency converter built with PHP
 
 ## Motivation
@@ -17,9 +17,9 @@ Currently:
 
 ## Tech/framework used
 ![badge](https://img.shields.io/badge/Server-XAMPP-orange.svg)
-![badge](https://img.shields.io/badge/Language-PHP 7-blue.svg)
-![badge](https://img.shields.io/badge/Language-HTML 5-orange.svg)
-![badge](https://img.shields.io/badge/Language-CSS 3.0-green.svg)
+![badge](https://img.shields.io/badge/Language-PHP%207-blue.svg)
+![badge](https://img.shields.io/badge/Language-HTML%205-orange.svg)
+![badge](https://img.shields.io/badge/Language-CSS%203.0-green.svg)
 
 ## Features and How to use
 Simple dropdown selections for the to and from currencies and one input box should do the trick.
