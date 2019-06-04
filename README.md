@@ -10,7 +10,18 @@ Currently:
 - USD -> PHP
 - USD -> INR
 - USD -> JPY
-- AUD -> USD
+- USD -> BTC
+- USD -> ETH
+
+- AUD -> PHP
+- AUD -> INR
+- AUD -> JPY
+- AUD -> BTC
+- AUD -> ETH
+
+
+
+
 
 ## Screenshots
 [Include logo/demo screenshot etc.]
